@@ -30,11 +30,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nethumn888-cpu&show_icons=true&count_private=true&theme=merko" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethumn888-cpu&layout=compact&theme=merko" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nethumn888-cpu&theme=merko" alt="GitHub Streak" />
 
