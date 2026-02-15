@@ -14,6 +14,11 @@
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/nethum-nimsara-63382b387/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+<p>
+  <a href="https://www.facebook.com/share/1AjhLLuMb5/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
 
 ## Skills
 
